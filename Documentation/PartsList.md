@@ -12,7 +12,7 @@
 | UBSコネクタ | microBタイプ　オス | 1 | [https://www.amazon.co.jp/dp/B094CC8Z1M] |
 | UBSコネクタ | Bタイプ メス | 1 | [https://akizukidenshi.com/catalog/g/g100161/] |
 | 導線 | - | 1 | [https://www.amazon.co.jp/dp/B0DV57SHVP] |
-| ネオジム磁石 | φ5 × 2mm | 2 | [https://www.amazon.co.jp/dp/B0B7BBGM81] |
+| 丸型磁石 | φ5 × 2mm | 2 | [https://www.amazon.co.jp/dp/B0B7BBGM81] |
 
 
 >  キースイッチについて  
