@@ -6,7 +6,7 @@
 | :--- | :--- | :---: | :--- |
 | Raspberry Pi Pico | - | 1 | [https://akizukidenshi.com/catalog/g/g118085/] |
 | なべ小ねじ | M3 × 8mm | 8 | [https://www.amazon.co.jp/dp/B09SCV6HL5]  |
-| なべ小ねじ | M3 × 4mm | 4 | 同上 |
+| なべ小ねじ | M3 × 16mm | 4 | 同上 |
 | 六角ナット | M3 | 12 | 同上 |
 | キースイッチ | Cherry MX互換 | 17 | [https://shop.yushakobo.jp/products/4278] |
 | UBSコネクタ | microBタイプ　オス | 1 | [https://www.amazon.co.jp/dp/B094CC8Z1M] |
