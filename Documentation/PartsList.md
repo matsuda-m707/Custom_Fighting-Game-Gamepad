@@ -42,11 +42,11 @@
 | Button | 前面ボタン |  7 | -  |
 | ButtonLR | LRボタン |  4 | -  |
 | ButtonS | Start・Selectボタン |  2 | -  |
-| StickBase | スティックパーツ |  1 | 8001Resin推奨  |
-| StickAxis | スティックパーツ |  1 |  8001Resin推奨  |
-| StickHorizontai | スティックパーツ |  1 | 8001Resin推奨   |
-| StickVertical | スティックパーツ |  1 | 8001Resin推奨   |
-| StickHead | スティックパーツ |  1 | 8001Resin推奨   |
+| StickBase | スティックパーツ |  1 | 8001Resin or 9000HE Resin  |
+| StickAxis | スティックパーツ |  1 | 8001Resin or 9000HE Resin  |
+| StickHorizontai | スティックパーツ |  1 | 8001Resin or 9000HE Resin   |
+| StickVertical | スティックパーツ |  1 | 8001Resin or 9000HE Resin   |
+| StickHead | スティックパーツ |  1 | 8001Resin or 9000HE Resin   |
 
 >  3Dプリントは素材によって同じデータでも寸法にばらつきが出る場合があります。  
->  スティックパーツは他と比べて寸法が重要なので動作を確認した8001Resinという素材を推奨しています。
+>  スティックパーツは他と比べて寸法が重要なので動作を確認した素材を推奨しています。

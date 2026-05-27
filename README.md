@@ -1,3 +1,7 @@
+## update
+2026-05-28  
+[StickBaseパーツ](./STL/StickBase.stl)を調整
+
 # Custom Fighting Game Gamepad
 ストリートファイター６用の自作ゲームパッドです。  
 スティックの上入力を無効化できるものが欲しくて作りました。  
